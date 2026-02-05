@@ -1,6 +1,6 @@
 {
   "pack": 10,
-  "sizeMB": 246.28893280029297,
+  "sizeMB": 248.9994192123413,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -3140,6 +3140,7 @@
     "paper_toss_flash",
     "Planarity",
     "Pactime",
-    "pacman_pastore"
+    "pacman_pastore",
+    "papaspizzeria_v2"
   ]
 }
