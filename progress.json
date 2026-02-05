@@ -1,6 +1,6 @@
 {
   "pack": 10,
-  "sizeMB": 277.4775686264038,
+  "sizeMB": 277.805775642395,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -3153,6 +3153,7 @@
     "pony-creator_202202",
     "powerpuff-girls-z-adventure",
     "police-run",
-    "puzzle02"
+    "puzzle02",
+    "puzzle_swf"
   ]
 }
