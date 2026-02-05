@@ -1,6 +1,6 @@
 {
   "pack": 10,
-  "sizeMB": 301.8791446685791,
+  "sizeMB": 302.095814704895,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -3165,6 +3165,7 @@
     "planktons-revenge-pinball-2004",
     "platform_swf",
     "pikmin_flash",
-    "peppapig_painting"
+    "peppapig_painting",
+    "pinball2_flash"
   ]
 }
