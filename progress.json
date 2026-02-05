@@ -1,6 +1,6 @@
 {
   "pack": 10,
-  "sizeMB": 814.6443347930908,
+  "sizeMB": 814.8160934448242,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -3340,6 +3340,7 @@
     "rotate-puzzle-kim-possible-3d",
     "reverb2game",
     "rotate-and-roll_flash",
-    "rifleman-mario"
+    "rifleman-mario",
+    "run_michael"
   ]
 }
