@@ -1,6 +1,6 @@
 {
   "pack": 10,
-  "sizeMB": 865.464280128479,
+  "sizeMB": 868.7259302139282,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -3360,6 +3360,7 @@
     "rps-blockade",
     "regurge-episode-4-mime-after-mime_202503",
     "rooftop_skater_1",
-    "rx_swf"
+    "rx_swf",
+    "romcheckfail"
   ]
 }
